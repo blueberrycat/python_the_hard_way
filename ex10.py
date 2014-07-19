@@ -9,15 +9,9 @@ I'll do a list:
 \t* Catnip\n\t* Grass
 """
 
-shaking_crab = """
-we will eat:
-\tFish soup
-\t\tSeaweed
-\nAnd for desert %s and %s 
-""" % ('chocolate', 'apples')
 
 print tabby_cat
 print persian_cat
 print backslash_cat
 print fat_cat
-print shaking_crab
+
